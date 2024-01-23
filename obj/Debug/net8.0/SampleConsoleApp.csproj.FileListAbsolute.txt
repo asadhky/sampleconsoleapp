@@ -1,0 +1,14 @@
+/Users/Asad/Downloads/SampleConsoleApp/bin/Debug/net8.0/SampleConsoleApp
+/Users/Asad/Downloads/SampleConsoleApp/bin/Debug/net8.0/SampleConsoleApp.deps.json
+/Users/Asad/Downloads/SampleConsoleApp/bin/Debug/net8.0/SampleConsoleApp.runtimeconfig.json
+/Users/Asad/Downloads/SampleConsoleApp/bin/Debug/net8.0/SampleConsoleApp.dll
+/Users/Asad/Downloads/SampleConsoleApp/bin/Debug/net8.0/SampleConsoleApp.pdb
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.AssemblyInfoInputs.cache
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.AssemblyInfo.cs
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.dll
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/refint/SampleConsoleApp.dll
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.pdb
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/SampleConsoleApp.genruntimeconfig.cache
+/Users/Asad/Downloads/SampleConsoleApp/obj/Debug/net8.0/ref/SampleConsoleApp.dll
